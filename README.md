@@ -18,3 +18,5 @@ Thi is a simple web project, deployment can be on any web server
 or even local file system.
 
 ## How To Contribute
+
+2014 Git.Training
